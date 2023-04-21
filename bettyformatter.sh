@@ -23,9 +23,9 @@ read install_script
 if [ "$install_script" == "y" ]; then
     # Install the script
     echo "Installing script..."
-    sudo cp convert_to_betty.sh /usr/local/bin/convert_to_betty
-    sudo chmod +x /usr/local/bin/convert_to_betty
-    echo "Script installed. You can now run it by typing 'convert_to_betty' in the terminal."
+    sudo cp bettyformatter.sh /usr/local/bin/bettyformatter
+    sudo chmod +x /usr/local/bin/bettyformatter
+    echo "Script installed. You can now run it by typing 'bettyformatter' in the terminal."
 fi
 
 # Display a message to the user
