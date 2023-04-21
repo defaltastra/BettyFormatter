@@ -20,7 +20,6 @@ To install the script, follow these steps:
 
 chmod +x convert_to_betty.sh
 
-Copy
 
 4. Run the script by running the following command:
 
