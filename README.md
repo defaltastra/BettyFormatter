@@ -54,21 +54,11 @@ sudo apt-get install astyle
 ### Installation
 
 
-To install the script, follow these steps:
+To install and use the script, follow these steps:
 
-1. Clone the repository to your local machine or download the `bettyformatter.sh file.
-2. Open a terminal and navigate to the directory where the script is located.
-3. Make the script executable by running the following command:
-
-## Usage
-
-
-
-When you run the script, it will prompt you to enter the name of the input file. Once you enter the file name, the script will check if the file exists, and then convert the code in the input file to Betty style using `astyle`.
-
-If `astyle` is not installed, the script will prompt you to install it. If you choose to install `astyle`, the script will automatically install it using `sudo apt-get install -y astyle`.
-
-If you choose to install the script, the script will be installed in your system by copying itself to `/usr/local/bin/bettyformatter` and making it executable. You can then run the script by typing `bettyformatter` in the terminal.
+1. ```git clone https://github.com/defaltastra/BettyFormatter```
+2. ```cd BettyFormatter```
+3. ```./bettyformatter.sh```
 
 ## License
 
