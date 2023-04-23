@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Betty Formatter</h3>
+  ![BettyFormatter](/img/BettyFormatter.gif)
 
   <p align="center">
     Convert C Code to Betty Style
