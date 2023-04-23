@@ -1,7 +1,8 @@
+<div style="text-align:center">
+  <img src="img/bettyformatter.gif" alt="Alt Text" style="margin:auto;">
+</div>
 <br/>
 <p align="center">
-  ![BettyFormatter](/img/BettyFormatter.gif)
-
   <p align="center">
     Convert C Code to Betty Style
     <br/>
